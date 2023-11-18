@@ -1,0 +1,91 @@
+.popular-title{
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:rgba(255, 255, 255, 0.9);
+    }
+    .popular-text{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:rgba(255, 255, 255, 0.55);
+    margin-top: 25px;
+    max-width: 427px;
+    margin: 0 auto;
+    }
+    .popular-list-title{
+    
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    color:rgba(255, 255, 255, 0.78) ;
+    }
+    .popular-list-text{
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0em;
+        color:rgba(255, 165, 55, 0.55) ;
+    }
+    .popular-list-text-second{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 0em;
+        color:rgba(255, 255, 255, 0.55);
+    }
+    .popular-list-link{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: rgba(255, 255, 255, 0.55);
+    }
+    .popular-btn{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color:rgba(255, 110, 48, 1);
+    border-radius: 8px;
+border: 1px solid rgba(255, 255, 255, 0.10);
+background: #1E252B;
+width: 184px;
+height: 64px;
+display: block;
+margin: 0 auto;
+    }
+    .popular{
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+    .popular-list{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 90px;
+        margin-bottom: 100px;
+        column-gap: 23px;
+        row-gap: 100psecond;
+    }
+    .popular-list-item{
+        display: flex;
+    }
+    .popular-list-item{
+        max-width: 392px;
+        padding: 33px;
+    }
+    .popular-list-div{
+        display: flex;
+        gap: 30px;
+    }
+    .popular-list-second-item{
+        display: flex; gap: 25px;
+    }
+    .popular-second-div{
+        display: flex;
+    }
