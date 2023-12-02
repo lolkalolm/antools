@@ -1,0 +1,44 @@
+.testimonial{
+    padding-top: 200px;
+    padding-bottom: 250px;
+}
+.testimonial-btn{
+    background-image:url("./img/chevron-left.png") ;
+    background-position: center;
+    width: 12px;
+    height: 24px;
+}
+.testimonial-second-btn{
+    background-image:url("./img/chevron-left\ \(1\).png") ;
+    background-position: center;
+    width: 12px;
+    height: 24px;
+}
+.testimonial-div-III{
+    background-image: url("./img/“\ \(1\).png");
+    width: 445px;
+    height: 225px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+.testimonial-text{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.015em;
+color: rgba(255, 255, 255, 0.78);
+max-width: 393px;
+}
+.testimonial-div{
+    display: flex;
+    gap: 108px;
+    align-items: center;
+}
+.testimonial-second-div{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,58 @@
+.join{
+    padding-top:250px ;
+    padding-bottom:240px ;
+}
+.join-title{
+font-size: 48px;
+font-weight: 500;
+line-height: 62px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(255, 255, 255, 0.9);
+margin-bottom: 25px;
+}
+.join-text{
+font-size: 18px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(255, 255, 255, 0.55);
+max-width: 427px;
+margin: 0 auto;
+}
+.join-btn{
+    border-radius: 8px;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+color: rgba(255, 255, 255, 1);
+background-color: rgba(255, 110, 48, 1);
+width: 130.43px;
+height: 48px;
+margin-left: auto;
+}
+.join-input::placeholder{
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+color: rgba(255, 255, 255, 0.38);
+}
+.join-input{
+    max-width: 191px;
+    height: 21px;
+    border: 1.5px;
+    background: transparent;
+}
+.join-form{
+max-width: 549px;
+background-color: rgba(40, 48, 54, 1);
+border-radius: 15px;
+display: flex;
+align-items: center;
+padding:8px 12px 8px 25px ;
+margin: 0 auto;
+margin-top: 100px;
+}

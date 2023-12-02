@@ -1,0 +1,25 @@
+.brand{
+    background-image:url("./img/Rectangle\ 308.png");
+    padding-top: 55px;
+    padding-bottom: 55px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.brand-list-item{
+    display: flex;
+    justify-content: center;
+
+}
+.brand-list{
+    display: flex;
+    gap: 107px;
+    padding-top: 55px;
+    padding-bottom: 56px;
+    justify-content: center;
+    
+}
+.brand-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
